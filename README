@@ -1,0 +1,8 @@
+.
+├── bataille
+├── bataille.c
+└── bataille_naval.c
+
+1.Download conio.h /ncurse.h
+2.compiled "bataille_naval.c"
+3.execute
